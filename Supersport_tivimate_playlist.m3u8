@@ -1,0 +1,50 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz"
+
+
+#EXTINF:-1 tvg-id="GRANDSTAND.za" tvg-name="SuperSport Grandstand" tvg-logo="https://i.imgur.com/iFaOGc3.png" group-title="SuperSports",SuperSport Grandstand
+https://xyzdddd.mizhls.ru/lb/premium412/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="PSL.za" tvg-name="SuperSport PSL" tvg-logo="https://i.imgur.com/NKuYER5.png" group-title="SuperSports",SuperSport PSL
+https://xyzdddd.mizhls.ru/lb/premium413/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SS.Premier.League.za" tvg-name="SuperSport Premier league" tvg-logo="https://i.imgur.com/5eq6btL.png" group-title="SuperSports",SuperSport Premier league
+https://xyzdddd.mizhls.ru/lb/premium414/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-name="SuperSport LaLiga" tvg-logo="https://i.imgur.com/momefy4.png" group-title="SuperSports",SuperSport LaLiga
+https://xyzdddd.mizhls.ru/lb/premium415/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="VARIETY.1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://i.imgur.com/ZZ8txfu.png" group-title="SuperSports",SuperSport Variety 1
+https://xyzdddd.mizhls.ru/lb/premium416/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="VARIETY.2.za" tvg-name="SuperSport Variety 2" tvg-logo="https://i.imgur.com/4tgQqx8.png" group-title="SuperSports",SuperSport Variety 2
+https://xyzdddd.mizhls.ru/lb/premium417/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="VARIETY.3.za" tvg-name="SuperSport Variety 3" tvg-logo="https://i.imgur.com/uby19X0.png" group-title="SuperSports",SuperSport Variety 3
+https://xyzdddd.mizhls.ru/lb/premium418/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="VARIETY.4.za" tvg-name="SuperSport Variety 4" tvg-logo="https://i.imgur.com/SKGgHwi.png" group-title="SuperSports",SuperSport Variety 4
+https://xyzdddd.mizhls.ru/lb/premium419/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="ACTION.za" tvg-name="SuperSport Action" tvg-logo="https://i.imgur.com/99BY6qq.png" group-title="SuperSports",SuperSport Action
+https://xyzdddd.mizhls.ru/lb/premium420/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="RUGBY.za" tvg-name="SuperSport Rugby" tvg-logo="https://i.imgur.com/8jPPMbh.png" group-title="SuperSports",SuperSport Rugby
+https://xyzdddd.mizhls.ru/lb/premium421/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="GOLF.za" tvg-name="SuperSport Golf" tvg-logo="https://i.imgur.com/f7VxxiC.png" group-title="SuperSports",SuperSport Golf
+https://xyzdddd.mizhls.ru/lb/premium422/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="SuperSport Tennis" tvg-logo="https://i.imgur.com/Vu1ujef.png" group-title="SuperSports",SuperSport Tennis
+https://xyzdddd.mizhls.ru/lb/premium423/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-name="SuperSport Motorsport" tvg-logo="https://i.imgur.com/mI0YFsB.png" group-title="SuperSports",SuperSport Motorsport
+https://xyzdddd.mizhls.ru/lb/premium424/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-name="Supersport Football" tvg-logo="https://i.imgur.com/0piO16f.png" group-title="SuperSports",Supersport Football
+https://xyzdddd.mizhls.ru/lb/premium56/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="CRICKET.za" tvg-name="SuperSport Cricket" tvg-logo="https://i.imgur.com/0PtzusI.png" group-title="SuperSports",SuperSport Cricket
+https://xyzdddd.mizhls.ru/lb/premium368/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="MAXIMO.1.za" tvg-name="SuperSport MaXimo 1" tvg-logo="https://i.imgur.com/338V61M.png" group-title="SuperSports",SuperSport MaXimo 1
+https://xyzdddd.mizhls.ru/lb/premium572/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
