@@ -68,6 +68,20 @@ https://xyzdddd.mizhls.ru/lb/premium130/index.m3u8|Referer=https://ilovetoplay.x
 
 
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://i.imgur.com/GX3t4br.png" group-title="TNT Sports",TNT Sports 1
+https://xyzdddd.mizhls.ru/lb/premium31/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://i.imgur.com/GX3t4br.png" group-title="TNT Sports",TNT Sports 2
+https://xyzdddd.mizhls.ru/lb/premium132/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://i.imgur.com/GX3t4br.png" group-title="TNT Sports",TNT Sports 3
+https://xyzdddd.mizhls.ru/lb/premium133/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://i.imgur.com/GX3t4br.png" group-title="TNT Sports",TNT Sports 4
+https://xyzdddd.mizhls.ru/lb/premium134/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+
+
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-name="Sky Cinema Action" tvg-logo="https://i.imgur.com/P0scapK.png" group-title="Sky Cinema",Sky Cinema Action
 https://xyzdddd.mizhls.ru/lb/premium677/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
