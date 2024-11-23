@@ -1,99 +1,99 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 
 
-#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-name="Sky Arts" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-arts-icon-uk.png" group-title="Sky Entertainment",Sky Arts
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-name="Sky Arts" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-arts-icon-uk.png" group-title="Sky Entertainment",Sky Arts
 https://xyzdddd.mizhls.ru/lb/premium683/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="Sky Atlantic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-atlantic-icon-uk.png" group-title="Sky Entertainment",Sky Atlantic
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-atlantic-icon-uk.png" group-title="Sky Entertainment",Sky Atlantic
 https://xyzdddd.mizhls.ru/lb/premium362/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-name="Sky Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-comedy-icon-uk.png" group-title="Sky Entertainment",Sky Comedy
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-name="Sky Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-icon-uk.png" group-title="Sky Entertainment",Sky Comedy
 https://xyzdddd.mizhls.ru/lb/premium684/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-name="Sky Crime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-icon-uk.png" group-title="Sky Entertainment",Sky Crime
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-name="Sky Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-crime-icon-uk.png" group-title="Sky Entertainment",Sky Crime
 https://xyzdddd.mizhls.ru/lb/premium685/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-name="Sky History" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-history-icon-uk.png" group-title="Sky Entertainment",Sky History
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-name="Sky History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-history-icon-uk.png" group-title="Sky Entertainment",Sky History
 https://xyzdddd.mizhls.ru/lb/premium686/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkyShowcaseHD.uk" tvg-name="Sky Showcase" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-showcase-icon-uk.png" group-title="Sky Entertainment",Sky Showcase
+#EXTINF:-1 tvg-id="SkyShowcaseHD.uk" tvg-name="Sky Showcase" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-showcase-icon-uk.png" group-title="Sky Entertainment",Sky Showcase
 https://xyzdddd.mizhls.ru/lb/premium682/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="Sky Entertainment",Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="Sky Entertainment",Sky Sports Mix
 https://xyzdddd.mizhls.ru/lb/premium557/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-news-icon-uk.png" group-title="Sky Entertainment",Sky Sports News
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-icon-uk.png" group-title="Sky Entertainment",Sky Sports News
 https://xyzdddd.mizhls.ru/lb/premium366/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkySp.Racing.uk" tvg-name="Sky Sports Racing" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-racing-icon-uk.png" group-title="Sky Entertainment",Sky Sports Racing
+#EXTINF:-1 tvg-id="SkySp.Racing.uk" tvg-name="Sky Sports Racing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-racing-icon-uk.png" group-title="Sky Entertainment",Sky Sports Racing
 https://xyzdddd.mizhls.ru/lb/premium554/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-name="Sky Witness" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-witness-icon-uk.png" group-title="Sky Entertainment",Sky Witness
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-name="Sky Witness" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-icon-uk.png" group-title="Sky Entertainment",Sky Witness
 https://xyzdddd.mizhls.ru/lb/premium361/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
 
 
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFCTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/lfctv-uk.png" group-title="Sky Sports",LFCTV
+#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFCTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/lfctv-uk.png" group-title="Sky Sports",LFCTV
 https://xyzdddd.mizhls.ru/lb/premium826/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/mutv-uk.png" group-title="Sky Sports",MUTV
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png" group-title="Sky Sports",MUTV
 https://xyzdddd.mizhls.ru/lb/premium377/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action NFL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-nfl-icon-uk.png" group-title="Sky Sports",Sky Sports Action NFL
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action NFL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-nfl-icon-uk.png" group-title="Sky Sports",Sky Sports Action NFL
 https://xyzdddd.mizhls.ru/lb/premium37/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-icon-uk.png" group-title="Sky Sports",Sky Sports+
+#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-plus-icon-uk.png" group-title="Sky Sports",Sky Sports+
 https://xyzdddd.mizhls.ru/lb/premium36/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="Sky Sports",Sky Sports Cricket
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="Sky Sports",Sky Sports Cricket
 https://xyzdddd.mizhls.ru/lb/premium65/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Sky Sports",Sky Sports F1
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Sky Sports",Sky Sports F1
 https://xyzdddd.mizhls.ru/lb/premium60/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Sky Sports",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Sky Sports",Sky Sports Football
 https://xyzdddd.mizhls.ru/lb/premium35/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="Sky Sports",Sky Sports Golf
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="Sky Sports",Sky Sports Golf
 https://xyzdddd.mizhls.ru/lb/premium70/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="Sky Sports",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="Sky Sports",Sky Sports Main Event
 https://xyzdddd.mizhls.ru/lb/premium38/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="Sky Sports",Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="Sky Sports",Sky Sports Mix
 https://xyzdddd.mizhls.ru/lb/premium557/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="Sky Sports",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="Sky Sports",Sky Sports Premier League
 https://xyzdddd.mizhls.ru/lb/premium130/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
 
 
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-name="Sky Cinema Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-icon-uk.png" group-title="Sky Cinema",Sky Cinema Action
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-icon-uk.png" group-title="Sky Cinema",Sky Cinema Action
 https://xyzdddd.mizhls.ru/lb/premium677/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="Sky Cinema Animation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-animation-icon-uk.png" group-title="Sky Cinema",Sky Cinema Animation
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="Sky Cinema Animation" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-animation-icon-uk.png" group-title="Sky Cinema",Sky Cinema Animation
 https://xyzdddd.mizhls.ru/lb/premium675/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-icon-uk.png" group-title="Sky Cinema",Sky Cinema Drama
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-drama-icon-uk.png" group-title="Sky Cinema",Sky Cinema Drama
 https://xyzdddd.mizhls.ru/lb/premium680/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Cinema Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-icon-uk.png" group-title="Sky Cinema",Sky Cinema Family
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-icon-uk.png" group-title="Sky Cinema",Sky Cinema Family
 https://xyzdddd.mizhls.ru/lb/premium676/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-icon-uk.png" group-title="Sky Cinema",Sky Cinema Greats
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-icon-uk.png" group-title="Sky Cinema",Sky Cinema Greats
 https://xyzdddd.mizhls.ru/lb/premium674/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-icon-uk.png" group-title="Sky Cinema",Sky Cinema Hits
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-hits-icon-uk.png" group-title="Sky Cinema",Sky Cinema Hits
 https://xyzdddd.mizhls.ru/lb/premium673/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-icon-uk.png" group-title="Sky Cinema",Sky Cinema Premiere
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-icon-uk.png" group-title="Sky Cinema",Sky Cinema Premiere
 https://xyzdddd.mizhls.ru/lb/premium671/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-name="Sky Cinema Sci-Fi Horror" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-horror-icon-uk.png" group-title="Sky Cinema",Sky Cinema Sci-Fi Horror
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-name="Sky Cinema Sci-Fi Horror" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-sci-fi-horror-icon-uk.png" group-title="Sky Cinema",Sky Cinema Sci-Fi Horror
 https://xyzdddd.mizhls.ru/lb/premium681/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-name="Sky Cinema Select" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-icon-uk.png" group-title="Sky Cinema",Sky Cinema Select
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-name="Sky Cinema Select" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-select-icon-uk.png" group-title="Sky Cinema",Sky Cinema Select
 https://xyzdddd.mizhls.ru/lb/premium672/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-icon-uk.png" group-title="Sky Cinema",Sky Cinema Thriller
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-icon-uk.png" group-title="Sky Cinema",Sky Cinema Thriller
 https://xyzdddd.mizhls.ru/lb/premium679/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
