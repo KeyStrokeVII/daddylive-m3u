@@ -4,6 +4,13 @@ Cartoon.Network.HDTV.(East).(TOONHD).us
 AMC.HDTV.(East).(AMCHD).us
 Animal.Planet.HDTV.(East).(APHD).us
 AXSTV.HD.(AXSTV).us
+ArenaPremium1.rs
+ArenaPremium2.rs
+ArenaPremium3.rs
+Arenasport1HD.hr
+Arenasport2HD.hr
+Arenasport3HD.hr
+Arenasport4HD.hr
 BBC.America.HDTV.(East).(BBC).us
 Black.Entertainment.Television.HDTV.(East).(BET-HD).us
 Boomerang.(BOOM).us
