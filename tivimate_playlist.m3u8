@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/KeyStrokeVII/daddylive-m3u/refs/heads/main/epg.xml" refresh="3600"
 
 
 #EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-name="Arena PREMIUM 1" tvg-logo="https://i.imgur.com/teoG2T9.png" group-title="Arena Sports",Arena PREMIUM 1
