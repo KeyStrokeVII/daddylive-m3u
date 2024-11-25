@@ -1,25 +1,25 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.bevy.be/bevyfiles/serbiapremium2.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 
-#EXTINF:-1 tvg-id="Arena Sport Premium 1.rs" tvg-name="Arena PREMIUM 1" tvg-logo="https://i.imgur.com/teoG2T9.png" group-title="Arena Sports Serbia",Arena PREMIUM 1
+#EXTINF:-1 tvg-id="Arena Premium 1 (SN)" tvg-name="Arena PREMIUM 1" tvg-logo="https://i.imgur.com/teoG2T9.png" group-title="Arena Sports Serbia",Arena PREMIUM 1
 https://xyzdddd.mizhls.ru/lb/premium134/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Arena Sport Premium 2.rs" tvg-name="Arena PREMIUM 2" tvg-logo="https://i.imgur.com/ZRYCzHL.png" group-title="Arena Sports Serbia",Arena PREMIUM 2
+#EXTINF:-1 tvg-id="Arena Premium 2 (SN)" tvg-name="Arena PREMIUM 2" tvg-logo="https://i.imgur.com/ZRYCzHL.png" group-title="Arena Sports Serbia",Arena PREMIUM 2
 https://xyzdddd.mizhls.ru/lb/premium135/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Arena Sport Premium 3.rs" tvg-name="Arena PREMIUM 3" tvg-logo="https://i.imgur.com/thfW3Vm.png" group-title="Arena Sports Serbia",Arena PREMIUM 3
+#EXTINF:-1 tvg-id="Arena Premium 3 (SN)" tvg-name="Arena PREMIUM 3" tvg-logo="https://i.imgur.com/thfW3Vm.png" group-title="Arena Sports Serbia",Arena PREMIUM 3
 https://xyzdddd.mizhls.ru/lb/premium139/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-name="Arena Sport 1" tvg-logo="https://i.imgur.com/oMxVxJH.png" group-title="Arena Sports Serbia",Arena Sport 1
+#EXTINF:-1 tvg-id="Arena Sport 1 HD (SN)" tvg-name="Arena Sport 1" tvg-logo="https://i.imgur.com/oMxVxJH.png" group-title="Arena Sports Serbia",Arena Sport 1
 https://xyzdddd.mizhls.ru/lb/premium429/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-name="Arena Sport 2" tvg-logo="https://i.imgur.com/LQ95N5b.png" group-title="Arena Sports Serbia",Arena Sport 2
+#EXTINF:-1 tvg-id="Arena Sport 2 HD (SN)" tvg-name="Arena Sport 2" tvg-logo="https://i.imgur.com/LQ95N5b.png" group-title="Arena Sports Serbia",Arena Sport 2
 https://xyzdddd.mizhls.ru/lb/premium430/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-name="Arena Sport 3" tvg-logo="https://i.imgur.com/U3DTH1V.png" group-title="Arena Sports Serbia",Arena Sport 3
+#EXTINF:-1 tvg-id="Arena Sport 3 HD (SN)" tvg-name="Arena Sport 3" tvg-logo="https://i.imgur.com/U3DTH1V.png" group-title="Arena Sports Serbia",Arena Sport 3
 https://xyzdddd.mizhls.ru/lb/premium431/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-name="Arena Sport 4" tvg-logo="https://i.imgur.com/6Q8p9Xg.png" group-title="Arena Sports Serbia",Arena Sport 4
+#EXTINF:-1 tvg-id="Arena Sport 4 HD (SN)" tvg-name="Arena Sport 4" tvg-logo="https://i.imgur.com/6Q8p9Xg.png" group-title="Arena Sports Serbia",Arena Sport 4
 https://xyzdddd.mizhls.ru/lb/premium581/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
 
