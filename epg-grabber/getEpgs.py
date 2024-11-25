@@ -10,24 +10,26 @@ output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'epg.xml'
 output_file_gz = output_file + '.gz'
 
 def fetch_and_extract_xml(url):
-    response = requests.get(url)
-    if response.status_code != 200:
-        print(f"Failed to fetch {url}")
-        return None
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
 
-    if url.endswith('.gz'):
-        try:
-            decompressed_data = gzip.decompress(response.content)
-            return ET.fromstring(decompressed_data)
-        except Exception as e:
-            print(f"Failed to decompress and parse XML from {url}: {e}")
-            return None
-    else:
-        try:
-            return ET.fromstring(response.content)
-        except Exception as e:
-            print(f"Failed to parse XML from {url}: {e}")
-            return None
+        if url.endswith('.gz'):
+            try:
+                decompressed_data = gzip.decompress(response.content)
+                return ET.fromstring(decompressed_data)
+            except Exception as e:
+                print(f"Failed to decompress and parse XML from {url}: {e}")
+                return None
+        else:
+            try:
+                return ET.fromstring(response.content)
+            except Exception as e:
+                print(f"Failed to parse XML from {url}: {e}")
+                return None
+    except requests.RequestException as e:
+        print(f"Failed to fetch {url}: {e}")
+        return None
 
 def filter_and_build_epg(urls):
     with open(tvg_ids_file, 'r') as file:
@@ -58,23 +60,24 @@ def filter_and_build_epg(urls):
         with gzip.open(output_file_gz, 'wb') as f:
             tree.write(f, encoding='utf-8', xml_declaration=True)
         print(f"New EPG saved to {output_file_gz}")
-	    
+
 m3u4u_epg = os.getenv("M3U4U_EPG")
 
 urls = [
-	m3u4u_epg,
-       'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
+    url for url in [
+        m3u4u_epg,
+        'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
         'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz',
-	'https://www.bevy.be/generate/FNXGNaDnQe.xml.gz',
-	'https://epg.pw/api/epg.xml?channel_id=8486',
-	'https://epg.pw/api/epg.xml?channel_id=12358',
-	'https://epg.pw/api/epg.xml?channel_id=9206',
+        'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz',
+        'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
+        'https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz',
+        'https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz',
+        'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz',
+        'https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz',
+        'https://epg.pw/api/epg.xml?channel_id=8486',
+        'https://epg.pw/api/epg.xml?channel_id=12358',
+        'https://epg.pw/api/epg.xml?channel_id=9206',
+    ] if url is not None
 ]
 
 if __name__ == "__main__":
