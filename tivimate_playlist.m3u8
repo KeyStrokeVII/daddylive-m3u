@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/KeyStrokeVII/daddylive-m3u/refs/heads/main/epg.xml" refresh="3600"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="3600"
 
 
 #EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-name="Arena PREMIUM 1" tvg-logo="https://i.imgur.com/teoG2T9.png" group-title="Arena Sports",Arena PREMIUM 1
@@ -21,6 +21,35 @@ https://xyzdddd.mizhls.ru/lb/premium434/index.m3u8|Referer=https://ilovetoplay.x
 
 #EXTINF:-1 tvg-id="Arenasport4HD.hr" tvg-name="Arena Sport 4" tvg-logo="https://i.imgur.com/6Q8p9Xg.png" group-title="Arena Sports",Arena Sport 4
 https://xyzdddd.mizhls.ru/lb/premium580/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+
+
+#EXTINF:-1 tvg-id="DAZN.1.de" tvg-name="DAZN 1 DE" tvg-logo="https://i.imgur.com/K737PPB.png" group-title="DAZN",DAZN 1 DE
+https://xyzdddd.mizhls.ru/lb/premium426/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="DAZN.2.de" tvg-name="DAZN 2 DE" tvg-logo="https://i.imgur.com/ufyWWGF.png" group-title="DAZN",DAZN 2 DE
+https://xyzdddd.mizhls.ru/lb/premium427/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="DAZN 1 ES" tvg-logo="https://i.imgur.com/K737PPB.png" group-title="DAZN",DAZN 1 ES
+https://xyzdddd.mizhls.ru/lb/premium445/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="DAZN 2 ES" tvg-logo="https://i.imgur.com/ufyWWGF.png" group-title="DAZN",DAZN 2 ES
+https://xyzdddd.mizhls.ru/lb/premium446/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="DAZN.3.es" tvg-name="DAZN 3 ES" tvg-logo="https://i.imgur.com/dlTqKQK.png" group-title="DAZN",DAZN 3 ES
+https://xyzdddd.mizhls.ru/lb/premium447/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="DAZN.4.es" tvg-name="DAZN 4 ES" tvg-logo="https://i.imgur.com/8OYBR9G.png" group-title="DAZN",DAZN 4 ES
+https://xyzdddd.mizhls.ru/lb/premium448/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="DAZN F1 ES" tvg-logo="https://i.imgur.com/EUFTSf1.png" group-title="DAZN",DAZN F1 ES
+https://xyzdddd.mizhls.ru/lb/premium537/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-name="DAZN LaLiga" tvg-logo="https://i.imgur.com/uc3Sqgl.png" group-title="DAZN",DAZN LaLiga
+https://xyzdddd.mizhls.ru/lb/premium538/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="DAZN.LALIGA.2.es" tvg-name="DAZN LaLiga 2" tvg-logo="https://i.imgur.com/uc3Sqgl.png" group-title="DAZN",DAZN LaLiga 2
+https://xyzdddd.mizhls.ru/lb/premium539/index.m3u8|Referer=https://ilovetoplay.xyz/|User-Agent=Mozilla/5.0 (Linux; Android 7.0; BRAVIA KDL-43W755C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36|Origin=https://cookiewebplay.xyz
 
 
 
